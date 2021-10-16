@@ -7,7 +7,9 @@ Svelte App Generator
 
 ## Installation
 git clone https://github.com/martinval9/SAP/
+
 cd SAP
+
 make
 
 ## Run
