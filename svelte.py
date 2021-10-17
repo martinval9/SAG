@@ -22,7 +22,7 @@ def main():
 
 	os.system('clear')
 
-	print(Fore.YELLOW + 'Svelte App Generator (SAP)\n' + Fore.RESET)
+	print(Fore.YELLOW + 'Svelte App Generator (SAG)\n' + Fore.RESET)
 	print(Fore.YELLOW + '1.' + Fore.RESET + ' Installation Via Zip\n')
 	print(Fore.YELLOW + '2.' + Fore.RESET + ' Online Installation' + Fore.YELLOW + ' [Recomended!]\n')
 	print(Fore.YELLOW + '3.' + Fore.RESET + ' Exit\n')
