@@ -1,4 +1,4 @@
-# SAP
+# SAG
 Svelte App Generator
 
 ![Preview Image](https://github.com/martinval9/SAP/blob/main/img/sap_home.png)
